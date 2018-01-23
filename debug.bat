@@ -1,0 +1,1 @@
+"C:\Program Files\LOVE\Love.exe"  %~dp0
